@@ -1,0 +1,24 @@
+{
+  "name": "angular-json-schema-test",
+  "authors": [
+    "Aman Gautam <iam@aman.pro>"
+  ],
+  "description": "Test Project just to test Angular JSON Schema and how it can be used for creating dynamic forms",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "http://aman.pro",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-schema-form": "^0.8.13",
+    "angular-route": "^1.5.3",
+    "bootstrap": "^3.3.6"
+  }
+}
