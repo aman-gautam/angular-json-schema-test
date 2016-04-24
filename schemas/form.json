@@ -3,5 +3,13 @@
   "title": {
     "type": "string",
     "enum": ["dr","jr","sir","mrs","mr","dj"]
+  },
+  "deleted": {
+    "type": "boolean"
+  },
+  "birthDate": {
+    "title": "Bday",
+    "type": "string",
+    "format": "date"
   }
 }

@@ -19,6 +19,7 @@
   "dependencies": {
     "angular-schema-form": "^0.8.13",
     "angular-route": "^1.5.3",
-    "bootstrap": "^3.3.6"
+    "bootstrap": "^3.3.6",
+    "pickadate": "^3.5.6"
   }
 }
